@@ -3,7 +3,6 @@ import { Card, Row, Col } from 'reactstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faPhone, faLink, faEnvelope } from '@fortawesome/free-solid-svg-icons'
 import './Description.css';
-import Coloredline from '../Common/Coloredline';
 export default class Description extends Component {
     render() {
         return (
