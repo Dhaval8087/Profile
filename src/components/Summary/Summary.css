@@ -1,0 +1,11 @@
+.p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: 400;
+    color: rgba(0,0,0,.9);
+    text-align: left;
+    font-size: 12px;
+}
